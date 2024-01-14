@@ -1,8 +1,7 @@
-# Ukraine Alerts API
+# UkraineAlarm - Javascript library for the [Ukraine Alert API](https://api.ukrainealarm.com/)
 
 - API version: 3.0
 - Package version: 3.0
-- Build package: io.swagger.codegen.v3.generators.javascript.JavaScriptClientCodegen
 
 ## Getting Started
 
